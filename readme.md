@@ -1,4 +1,4 @@
-# Basic Container and Card Container
+# Simple Container and Cards
 
 _Feel free to copy and edit_
 
